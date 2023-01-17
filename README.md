@@ -61,3 +61,5 @@
 | 아이디 |
 |:---:|
 | [sixthou](https://github.com/sixthou) |
+| [properTalk](https://github.com/properTalk) |
+| [WonHyeongCho](https://github.com/WonHyeongCho) |
