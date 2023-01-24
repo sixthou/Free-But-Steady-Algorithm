@@ -8,6 +8,6 @@
 
 | |  유형 | 문제 |  <div style="width:30">풀이</div> | 결과 |
 | --- |:---:|:---:|:---:|:---:|
-| 1 | `구현` | [중복 숫자 제거](https://programmers.co.kr/skill_checks) | [링크]https://programmers.co.kr/skill_checks | `pass` |  
-| 2 | `구현` | [문자열 숫자로 변환](https://programmers.co.kr/skill_checks) | [링크]https://programmers.co.kr/skill_checks | `pass` |
-| 3 | `구현` | [날짜의 요일 찾기](https://programmers.co.kr/skill_checks) | [링크]https://programmers.co.kr/skill_checks | `pass` |
+| 1 | `구현` | [중복 숫자 제거](https://programmers.co.kr/skill_checks) | [링크](https://github.com/WonHyeongCho/Free-But-Steedy-Algorithm/blob/main/WonHyeongCho/Week_1_1.java) | `pass` |  
+| 2 | `구현` | [문자열 숫자로 변환](https://programmers.co.kr/skill_checks) | [링크](https://github.com/WonHyeongCho/Free-But-Steedy-Algorithm/blob/main/WonHyeongCho/Week_1_2.java) | `pass` |
+| 3 | `구현` | [날짜의 요일 찾기](https://programmers.co.kr/skill_checks) | [링크](https://github.com/WonHyeongCho/Free-But-Steedy-Algorithm/blob/main/WonHyeongCho/Week_1_3.java) | `pass` |
