@@ -26,7 +26,7 @@ public class Algo3 {
 	
 	private static long solution() 
 	{
-		//이것이 코딩테스트다 ex2 
+		//이것이 코딩테스트다 ex3 
 		
 		BufferedReader bf = new BufferedReader(new InputStreamReader(System.in)); //선언
 		
