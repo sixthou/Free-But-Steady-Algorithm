@@ -24,9 +24,10 @@ public class Week2_Algo6 {
 
 		// TODO Auto-generated method stub
 
-		String s = "Zbcdefg";
+		int[] arr = {1, 5, 2, 6, 3, 7, 4};
+		int[][] cmd = {{2, 5, 3}, {4, 4, 1}, {1, 7, 3}} ;
 
-	  int[] answer =  Solution.solution(s);
+	  int[] answer =  Solution.solution(arr, cmd);
 	  
 	    System.out.println(answer);
 
@@ -35,7 +36,7 @@ public class Week2_Algo6 {
 
 	
 	class Solution {
-	    public int[] solution(int[] array, int[][] commands) {
+	    public static int[] solution(int[] array, int[][] commands) {
 	       int[] answer = new int[commands.length];
 		
 		int cnt =0;
