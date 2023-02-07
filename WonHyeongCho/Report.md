@@ -4,6 +4,18 @@
 ---
 ### 2주차
 
+알고리즘 감이 점점 살아나는 거 같다.😁
+담주에는 좀 더 많이 풀어야겠어
+
+| |  유형 | 문제 |  <div style="width:30">풀이</div> | 결과 |
+| --- |:---:|:---:|:---:|:---:|
+| 1 | `구현` | [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129) | [링크](https://github.com/WonHyeongCho/Free-But-Steedy-Algorithm/blob/main/WonHyeongCho/Week_3_1.java) | `pass` |  
+| 2 | `구현` | [뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539) | [링크](https://github.com/WonHyeongCho/Free-But-Steedy-Algorithm/blob/main/WonHyeongCho/Week_3_2.java) | `pass` |
+| 3 | `구현` | [캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680) | [링크](https://github.com/WonHyeongCho/Free-But-Steedy-Algorithm/blob/main/WonHyeongCho/Week_3_3.java) | `pass` |
+
+---
+### 2주차
+
 조금씩 난이도를 UP💪🏻
 
 | |  유형 | 문제 |  <div style="width:30">풀이</div> | 결과 |
