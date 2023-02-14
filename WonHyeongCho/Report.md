@@ -2,7 +2,21 @@
 > 작성은 주차 내림차순으로 가장 최근 주차가 위에오게 작성한다.
 
 ---
-### 2주차
+### 4주차
+
+벌써 프로젝트를 시작한지 1달이나 됐다니 시간 참 빠르다.
+이번에는 좀더 어려운 레벨로 풀이를 시작했다.
+역시나 쉽지 않군🥲
+
+| |  유형 | 문제 |  <div style="width:30">풀이</div> | 결과 |
+| --- |:---:|:---:|:---:|:---:|
+| 1 | `구현` | [일곱 난쟁이](https://www.acmicpc.net/problem/2309) | [링크](https://github.com/WonHyeongCho/Free-But-Steedy-Algorithm/blob/main/WonHyeongCho/Week_4_1.java) | `pass` |  
+| 2 | `구현` | [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127) | [링크](https://github.com/WonHyeongCho/Free-But-Steedy-Algorithm/blob/main/WonHyeongCho/Week_4_2.java) | `pass` |
+| 3 | `구현` | [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258) | [링크](https://github.com/WonHyeongCho/Free-But-Steedy-Algorithm/blob/main/WonHyeongCho/Week_4_3.java) | `fail` |
+| 4 | `구현` | [야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927) | [링크](https://github.com/WonHyeongCho/Free-But-Steedy-Algorithm/blob/main/WonHyeongCho/Week_4_4.java) | `pass` |
+
+---
+### 3주차
 
 알고리즘 감이 점점 살아나는 거 같다.😁
 담주에는 좀 더 많이 풀어야겠어
