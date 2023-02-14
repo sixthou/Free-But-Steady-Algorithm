@@ -4,6 +4,20 @@
 > 작성은 주차 내림차순으로 가장 최근 주차가 위에오게 작성한다.
 
 ---
+### 4주차
+프로그래머스 문제 필터 걸어둔 내용의 첫번째 페이지의 모든 문제를 해결했습니다🥳🥳
+슬슬 문제 난이도가 올라가 한문제당 풀이하는데 걸리는 시간이 길어지네요🥲
+계속 화이팅 해봅시다! 💪
+
+|    |  유형   |                                             문제                                              |                          <div style="width:30">풀이</div>                          | 결과 |
+|----|:-----:|:-------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------:|:---:|
+| 1  | `스택`  |      [뒤에 있는 큰 수 찾기 ](https://school.programmers.co.kr/learn/courses/30/lessons/154539)      |     [링크](https://github.com/sixthou/Algorithms/blob/master/programmers/Q_154539.java)      | `pass`|
+| 2  | `구현`  |          [멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)           | [링크](https://github.com/sixthou/Algorithms/blob/master/programmers/Q_12914.java) | `pass`|
+| 3  | `구현`  |         [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)          |   [링크](https://github.com/sixthou/Algorithms/blob/master/programmers/Q_76502.java)    | `pass`|
+| 4  | `LRU` |         [[1차] 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)          |   [링크](https://github.com/sixthou/Algorithms/blob/master/programmers/Q_17680.java)    | `pass`|
+| 5  | `구현`  |          [행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949)          |   [링크](https://github.com/sixthou/Algorithms/blob/master/programmers/Q_12949.java)    | `pass`|
+| 6  | `스택`  | [n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390) |   [링크](https://github.com/sixthou/Algorithms/blob/master/programmers/Q_87390.java)    | `pass`|
+
 ### 3주차
 1일 1알고리즘 풀이에 도전하고 있습니다. 프로그래머스 2, 3단계 문제들에 대해 정답률 높은순으로 정렬해 순차적으로 풀고 있습니다.
 링크에는 개인 레포에 풀이 링크를 걸어뒀고, 동일한 풀이를 /sixthou/suorce에 업로드 하였습니다. 
