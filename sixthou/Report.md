@@ -4,6 +4,18 @@
 > 작성은 주차 내림차순으로 가장 최근 주차가 위에오게 작성한다.
 
 ---
+### 5주차
+점점 난이도가 올라 매일 한개씩 풀어나가는게 부담이 되기 시작합니다.
+그래도 화이팅입니다~💪
+
+|     |  유형  |                                         문제                                         |                          <div style="width:30">풀이</div>                           |   결과   |
+|-----|:----:|:----------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------:|:------:|
+| 1   | `구현` |       [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065)        | [링크](https://github.com/sixthou/Algorithms/blob/master/programmers/Q_64065.java)  | `pass` |
+| 2   | `맵`  |     [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)      | [링크](https://github.com/sixthou/Algorithms/blob/master/programmers/Q_138476.java) | `pass` |
+| 3   | `DP` |     [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)      | [링크](https://github.com/sixthou/Algorithms/blob/master/programmers/Q_43105.java)  | `pass` |
+| 4   | `구현` |     [최고의 집합](https://school.programmers.co.kr/learn/courses/30/lessons/12938)      | [링크](https://github.com/sixthou/Algorithms/blob/master/programmers/Q_12938.java)  | `pass` |
+| 5   | `구현` | [연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701) | [링크](https://github.com/sixthou/Algorithms/blob/master/programmers/Q_131701.java) | `pass` |
+
 ### 4주차
 프로그래머스 문제 필터 걸어둔 내용의 첫번째 페이지의 모든 문제를 해결했습니다🥳🥳
 슬슬 문제 난이도가 올라가 한문제당 풀이하는데 걸리는 시간이 길어지네요🥲
