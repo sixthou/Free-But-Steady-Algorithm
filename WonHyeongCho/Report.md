@@ -2,6 +2,20 @@
 > 작성은 주차 내림차순으로 가장 최근 주차가 위에오게 작성한다.
 
 ---
+### 5주차
+
+이번주는 많이 못풀었네.. 영어도 해야하고ㅠㅠ
+담주에 더 열심히 해야겠다!!
+그리고 DP 문제 왜케 어려운지...
+
+| |  유형 | 문제 |  <div style="width:30">풀이</div> | 결과 |
+| --- |:---:|:---:|:---:|:---:|
+| 1 | `구현` | [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065) | [링크](https://github.com/WonHyeongCho/Free-But-Steedy-Algorithm/blob/main/WonHyeongCho/Week_5_1.java) | `pass` |  
+| 2 | `구현` | [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951) | [링크](https://github.com/WonHyeongCho/Free-But-Steedy-Algorithm/blob/main/WonHyeongCho/Week_5_2.java) | `pass` |
+| 3 | `구현` | [거스름돈](https://school.programmers.co.kr/learn/courses/30/lessons/12907) | [링크](https://github.com/WonHyeongCho/Free-But-Steedy-Algorithm/blob/main/WonHyeongCho/Week_5_3.java) | `fail` |
+
+
+---
 ### 4주차
 
 벌써 프로젝트를 시작한지 1달이나 됐다니 시간 참 빠르다.
