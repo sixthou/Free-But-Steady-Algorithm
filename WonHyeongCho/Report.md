@@ -2,6 +2,18 @@
 > 작성은 주차 내림차순으로 가장 최근 주차가 위에오게 작성한다.
 
 ---
+### 6주차
+
+담주에 무조건 더 열심히 한다.🔥
+
+| |  유형 | 문제 |  <div style="width:30">풀이</div> | 결과 |
+| --- |:---:|:---:|:---:|:---:|
+| 1 | `구현` | [점 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/140107) | [링크](https://github.com/WonHyeongCho/Free-But-Steedy-Algorithm/blob/main/WonHyeongCho/Week_6_1.java) | `pass` |  
+| 2 | `구현` | [호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651) | [링크](https://github.com/WonHyeongCho/Free-But-Steedy-Algorithm/blob/main/WonHyeongCho/Week_6_2.java) | `pass` |
+| 3 | `구현` | [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) | [링크](https://github.com/WonHyeongCho/Free-But-Steedy-Algorithm/blob/main/WonHyeongCho/Week_6_3.java) | `fail` |
+
+
+---
 ### 5주차
 
 이번주는 많이 못풀었네.. 영어도 해야하고ㅠㅠ
