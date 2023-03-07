@@ -4,6 +4,18 @@
 > 작성은 주차 내림차순으로 가장 최근 주차가 위에오게 작성한다.
 
 ---
+### 7주차
+저번주보다 하나 더 풀어서 4문제입니다.
+멈추지 말고 화이팅 입니다~💪
+
+|     |  유형   |                                     문제                                     |                          <div style="width:30">풀이</div>                           |   결과   |
+|-----|:-----:|:--------------------------------------------------------------------------:|:---------------------------------------------------------------------------------:|:------:|
+| 1   | `Map` | [[3차] 압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684) | [링크](https://github.com/sixthou/Algorithms/blob/master/programmers/Q_17684.java)  | `pass` |
+| 2   | `완탐`  |   [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)   | [링크](https://github.com/sixthou/Algorithms/blob/master/programmers/Q_87946.java)  | `pass` |
+| 3   | `구현`  | [N진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687)  | [링크](https://github.com/sixthou/Algorithms/blob/master/programmers/Q_17687.java)  | `pass` |
+| 4   | `구현`  |  [할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)  | [링크](https://github.com/sixthou/Algorithms/blob/master/programmers/Q_131127.java) | `pass` |
+
+
 ### 6주차
 이번주에는 3문제 밖에 풀지 못했네요ㅠㅠ
 다음주부터는 다시 분발해서 화이팅입니다~💪
