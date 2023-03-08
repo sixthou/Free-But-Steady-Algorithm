@@ -2,6 +2,19 @@
 > 작성은 주차 내림차순으로 가장 최근 주차가 위에오게 작성한다.
 
 ---
+### 7주차
+
+레벨2 중점으로 풀고 있는데 어려운 문제 왜케 많음????
+
+| |  유형 | 문제 |  <div style="width:30">풀이</div> | 결과 |
+| --- |:---:|:---:|:---:|:---:|
+| 1 | `구현` | [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989) | [링크](https://github.com/WonHyeongCho/Free-But-Steedy-Algorithm/blob/main/WonHyeongCho/Week_7_1.java) | `pass` |  
+| 2 | `구현` | [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368) | [링크](https://github.com/WonHyeongCho/Free-But-Steedy-Algorithm/blob/main/WonHyeongCho/Week_7_2.java) | `fail` |
+| 3 | `구현` | [다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911) | [링크](https://github.com/WonHyeongCho/Free-But-Steedy-Algorithm/blob/main/WonHyeongCho/Week_7_3.java) | `pass` |
+| 4 | `구현` | [디펜스게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085) | [링크](https://github.com/WonHyeongCho/Free-But-Steedy-Algorithm/blob/main/WonHyeongCho/Week_7_4.java) | `pass` |
+
+
+---
 ### 6주차
 
 담주에 무조건 더 열심히 한다.🔥
