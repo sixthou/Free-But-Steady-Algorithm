@@ -4,6 +4,23 @@
 > 작성은 주차 내림차순으로 가장 최근 주차가 위에오게 작성한다.
 
 ---
+### 8주차
+이번주는 1일 1문제 성공입니다~🥹
+난이도가 증가함에 따라 문제당 풀이시간도 점점 부담스럽지만 화이팅입니다~💪
+
+|     |  유형   |                                    문제                                     |                          <div style="width:30">풀이</div>                           |   결과   |
+|-----|:-----:|:-------------------------------------------------------------------------:|:---------------------------------------------------------------------------------:|:------:|
+| 1   | `구현`  |   [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)   | [링크](https://github.com/sixthou/Algorithms/blob/master/programmers/Q_92341.java)  | `pass` |
+| 2   | `MAP` |  [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)   | [링크](https://github.com/sixthou/Algorithms/blob/master/programmers/Q_42888.java)  | `pass` |
+| 3   | `구현`  | [스킬트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993) | [링크](https://github.com/sixthou/Algorithms/blob/master/programmers/Q_49993.java)  | `pass` |
+| 4   | `DP`  | [땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913)  | [링크](https://github.com/sixthou/Algorithms/blob/master/programmers/Q_12913.java) | `pass` |
+| 5   | `구현`  | [방문길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994)  | [링크](https://github.com/sixthou/Algorithms/blob/master/programmers/Q_49994.java) | `pass` |
+| 6   | `구현`  | [프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679)  | [링크](https://github.com/sixthou/Algorithms/blob/master/programmers/Q_17679.java) | `pass` |
+| 7   | `구현`  | [[3차] 파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686)  | [링크](https://github.com/sixthou/Algorithms/blob/master/programmers/Q_17686.java) | `pass` |
+
+
+
+---
 ### 7주차
 저번주보다 하나 더 풀어서 4문제입니다.
 멈추지 말고 화이팅 입니다~💪
