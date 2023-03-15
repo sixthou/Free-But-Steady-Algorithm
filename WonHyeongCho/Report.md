@@ -2,6 +2,18 @@
 > 작성은 주차 내림차순으로 가장 최근 주차가 위에오게 작성한다.
 
 ---
+### 8주차
+
+다음주는 더 집중해서 풀어야지😤
+
+| |  유형 | 문제 |  <div style="width:30">풀이</div> | 결과 |
+| --- |:---:|:---:|:---:|:---:|
+| 1 | `구현` | [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476) | [링크](https://github.com/WonHyeongCho/Free-But-Steedy-Algorithm/blob/main/WonHyeongCho/Week_8_1.java) | `pass` |  
+| 2 | `구현` | [시소 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/152996) | [링크](https://github.com/WonHyeongCho/Free-But-Steedy-Algorithm/blob/main/WonHyeongCho/Week_8_2.java) | `fail` |
+| 3 | `구현` | [다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/42885) | [링크](https://github.com/WonHyeongCho/Free-But-Steedy-Algorithm/blob/main/WonHyeongCho/Week_8_3.java) | `pass` |
+
+
+---
 ### 7주차
 
 레벨2 중점으로 풀고 있는데 어려운 문제 왜케 많음????
