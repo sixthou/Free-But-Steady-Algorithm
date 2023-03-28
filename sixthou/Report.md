@@ -3,6 +3,20 @@
 ## [Repository](https://github.com/sixthou/Algorithms)
 > 작성은 주차 내림차순으로 가장 최근 주차가 위에오게 작성한다.
 
+
+
+---
+### 10주차
+게으른 한주를 보냈습니다. 다시 정신차리고 화이팅입니다~💪
+
+|     |   유형   |                                     문제                                      |                          <div style="width:30">풀이</div>                           |   결과   |
+|-----|:------:|:---------------------------------------------------------------------------:|:---------------------------------------------------------------------------------:|:------:|
+| 1   |  `DP`  |   [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)    | [링크](https://github.com/sixthou/Algorithms/blob/master/programmers/Q_42898.java)  | `pass` |
+| 2   | `완전탐색` |   [모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)   | [링크](https://github.com/sixthou/Algorithms/blob/master/programmers/Q_84512.java)  | `pass` |
+| 3   | `BFS`  | [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) |  [링크](https://github.com/sixthou/Algorithms/blob/master/programmers/Q_1844.java)  | `pass` |
+| 4   |  `구현`  |   [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989)   | [링크](https://github.com/sixthou/Algorithms/blob/master/programmers/Q_161989.java) | `pass` |
+| 5   |  `DP`  |   [2 x n 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12900)   | [링크](https://github.com/sixthou/Algorithms/blob/master/programmers/Q_12900.java)  | `pass` |
+
 ---
 ### 8주차
 이번주는 1일 1문제 성공입니다~🥹
