@@ -2,6 +2,18 @@
 > 작성은 주차 내림차순으로 가장 최근 주차가 위에오게 작성한다.
 
 ---
+
+### 10주차
+
+커밋합니다!😇
+
+| |  유형 | 문제 |  <div style="width:30">풀이</div> | 결과 |
+| --- |:---:|:---:|:---:|:---:|
+| 1 | `구현` | [숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538?language=java) | [링크](https://github.com/WonHyeongCho/Free-But-Steedy-Algorithm/blob/main/WonHyeongCho/Week_10_1.java) | `pass` |  
+| 2 | `구현` | [롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265) | [링크](https://github.com/WonHyeongCho/Free-But-Steedy-Algorithm/blob/main/WonHyeongCho/Week_10_2.java) | `pass` |
+| 3 | `구현` | [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898) | [링크](https://github.com/WonHyeongCho/Free-But-Steedy-Algorithm/blob/main/WonHyeongCho/Week_10_3.java) | `pass` |
+
+---
 ### 8주차
 
 다음주는 더 집중해서 풀어야지😤
