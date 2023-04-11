@@ -3,6 +3,18 @@
 
 ---
 
+### 12주차
+
+이번주부터 3레벨 문제 1개는 풀겠습니다.🤩
+
+| |  유형 | 문제 |  <div style="width:30">풀이</div> | 결과 |
+| --- |:---:|:---:|:---:|:---:|
+| 1 | `구현` | [혼자 놀기 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130) | [링크](https://github.com/WonHyeongCho/Free-But-Steedy-Algorithm/blob/main/WonHyeongCho/Week_12_1.java) | `pass` |  
+| 2 | `구현` | [테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354) | [링크](https://github.com/WonHyeongCho/Free-But-Steedy-Algorithm/blob/main/WonHyeongCho/Week_12_2.java) | `pass` |
+| 3 | `구현` | [가장 긴 펠린드롬](https://school.programmers.co.kr/learn/courses/30/lessons/12904) | [링크](https://github.com/WonHyeongCho/Free-But-Steedy-Algorithm/blob/main/WonHyeongCho/Week_12_3.java) | `pass` |
+
+---
+
 ### 11주차
 
 반성합니다.😣
