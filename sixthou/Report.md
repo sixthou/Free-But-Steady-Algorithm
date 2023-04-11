@@ -3,6 +3,17 @@
 ## [Repository](https://github.com/sixthou/Algorithms)
 > 작성은 주차 내림차순으로 가장 최근 주차가 위에오게 작성한다.
 
+### 12주차
+한주 쉬었다가 다시 시작해봅니다 화이팅입니다~💪
+| |  유형 | 문제 |  <div style="width:30">풀이</div> | 결과 |
+| --- |:---:|:---:|:---:|:---:|
+| 1 | `탐욕범` | [단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884) | [링크](https://github.com/sixthou/Algorithms/blob/master/programmers/Q_42884.java) | `pass` |
+| 2 | `구현` | [2개 이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885) | [링크](https://github.com/sixthou/Algorithms/blob/master/programmers/Q_77885.java) | `pass` |
+| 3 | `구현` | [숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987) | [링크](https://github.com/sixthou/Algorithms/blob/master/programmers/Q_12987.java) | `pass` |
+| 4 | `구현` | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746) | [링크](https://github.com/sixthou/Algorithms/blob/master/programmers/Q_42746.java) | `pass` |
+| 5 | `구현` | [기지국 설치](https://school.programmers.co.kr/learn/courses/30/lessons/12979) | [링크](https://github.com/sixthou/Algorithms/blob/master/programmers/Q_129790.java) | `pass` |
+
+
 
 
 ---
