@@ -3,6 +3,18 @@
 ## [Repository](https://github.com/sixthou/Algorithms)
 > 작성은 주차 내림차순으로 가장 최근 주차가 위에오게 작성한다.
 
+### 13주차
+이번주에는 3개만~! 꾸준하게 화이팅입니다~💪
+
+| |  유형   |                                       문제                                        |  <div style="width:30">풀이</div> | 결과 |
+| --- |:-----:|:-------------------------------------------------------------------------------:|:---:|:---:|
+| 1 | `bfs` |   [숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538)    | [링크](https://github.com/sixthou/Algorithms/blob/master/programmers/Q_154538.java) | `pass` |
+| 2 | `dfs` | [쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936) | [링크](https://github.com/sixthou/Algorithms/blob/master/programmers/Q_68936.java) | `pass` |
+| 3 | `MAP` |    [롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265)     | [링크](https://github.com/sixthou/Algorithms/blob/master/programmers/Q_132265.java) | `pass` |
+
+
+
+
 ### 12주차
 한주 쉬었다가 다시 시작해봅니다 화이팅입니다~💪
 | |  유형 | 문제 |  <div style="width:30">풀이</div> | 결과 |
