@@ -3,6 +3,30 @@
 
 ---
 
+### 14주차
+
+다음주에 레벨 업 문제 풀이 고고~
+
+| |  유형 | 문제 |  <div style="width:30">풀이</div> | 결과 |
+| --- |:---:|:---:|:---:|:---:|
+| 1 | `구현` | [스코빌 지수](https://programmers.co.kr/skill_checks/483465) | [링크](https://github.com/WonHyeongCho/Free-But-Steedy-Algorithm/blob/main/WonHyeongCho/Week_14_1.java) | `pass` |  
+| 2 | `구현` | [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502) | [링크](https://github.com/WonHyeongCho/Free-But-Steedy-Algorithm/blob/main/WonHyeongCho/Week_14_2.java) | `pass` |
+| 3 | `구현` | [모음 사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512) | [링크](https://github.com/WonHyeongCho/Free-But-Steedy-Algorithm/blob/main/WonHyeongCho/Week_14_3.java) | `pass` |
+
+---
+
+### 13주차
+
+이번주는 풀이한 문 개수는 같지만 더 열심히 했다!.🙂
+
+| |  유형 | 문제 |  <div style="width:30">풀이</div> | 결과 |
+| --- |:---:|:---:|:---:|:---:|
+| 1 | `구현` | [테이블 해 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354) | [링크](https://github.com/WonHyeongCho/Free-But-Steedy-Algorithm/blob/main/WonHyeongCho/Week_13_1.java) | `pass` |  
+| 2 | `구현` | [숫자 카드 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/135807) | [링크](https://github.com/WonHyeongCho/Free-But-Steedy-Algorithm/blob/main/WonHyeongCho/Week_13_2.java) | `pass` |
+| 3 | `구현` | [마법의 엘레베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653) | [링크](https://github.com/WonHyeongCho/Free-But-Steedy-Algorithm/blob/main/WonHyeongCho/Week_13_3.java) | `pass` |
+
+---
+
 ### 12주차
 
 이번주부터 3레벨 문제 1개는 풀겠습니다.🤩
