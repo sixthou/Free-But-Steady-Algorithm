@@ -3,6 +3,21 @@
 
 ---
 
+### 15주차
+
+Level 3 테스트 실패😭
+다음주에 한번 더 도전!
+이번주는 길찾기 문제를 주로 풀었다.
+
+| |  유형 | 문제 |  <div style="width:30">풀이</div> | 결과 |
+| --- |:---:|:---:|:---:|:---:|
+| 1 | `구현` | [길찾기 게임](https://programmers.co.kr/skill_checks/485511) | [링크](https://github.com/WonHyeongCho/Free-But-Steedy-Algorithm/blob/main/WonHyeongCho/Week_15_1.java) | `pass` |  
+| 2 | `구현` | [무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540) | [링크](https://github.com/WonHyeongCho/Free-But-Steedy-Algorithm/blob/main/WonHyeongCho/Week_15_2.java) | `pass` |
+| 3 | `구현` | [미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993) | [링크](https://github.com/WonHyeongCho/Free-But-Steedy-Algorithm/blob/main/WonHyeongCho/Week_15_3.java) | `pass` |
+
+
+---
+
 ### 14주차
 
 다음주에 레벨 업 문제 풀이 고고~
