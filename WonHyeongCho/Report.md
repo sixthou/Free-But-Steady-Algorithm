@@ -3,6 +3,18 @@
 
 ---
 
+### 16주차
+
+노잼!!!😩
+
+| |  유형 | 문제 |  <div style="width:30">풀이</div> | 결과 |
+| --- |:---:|:---:|:---:|:---:|
+| 1 | `구현` | [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341) | [링크](https://github.com/WonHyeongCho/Free-But-Steedy-Algorithm/blob/main/WonHyeongCho/Week_16_1.java) | `pass` |  
+| 2 | `구현` | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | [링크](https://github.com/WonHyeongCho/Free-But-Steedy-Algorithm/blob/main/WonHyeongCho/Week_16_2.java) | `pass` |
+| 3 | `구현` | [문자열 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108) | [링크](https://github.com/WonHyeongCho/Free-But-Steedy-Algorithm/blob/main/WonHyeongCho/Week_16_3.java) | `pass` |
+
+---
+
 ### 15주차
 
 Level 3 테스트 실패😭
