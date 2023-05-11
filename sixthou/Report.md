@@ -3,6 +3,17 @@
 ## [Repository](https://github.com/sixthou/Algorithms)
 > 작성은 주차 내림차순으로 가장 최근 주차가 위에오게 작성한다.
 
+### 16주차
+카카오 기출문제들은 생각할게 많아보입니다. 힘들지만 화이팅입니다~💪
+
+|     |   유형   |                                         문제                                         |                          <div style="width:30">풀이</div>                          |   결과   |
+|-----|:------:|:----------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------:|:------:|
+| 1   |  `구현`  |        [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)         | [링크](https://github.com/sixthou/Algorithms/blob/master/programmers/Q_118667.java) | `pass` |
+| 2   | `스택, ` |    [택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704)    | [링크](https://github.com/sixthou/Algorithms/blob/master/programmers/Q_131704.java) | `pass` |
+| 3   |  `dp`  |      [스티커 모으기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/12971)       | [링크](https://github.com/sixthou/Algorithms/blob/master/programmers/Q_12971.java) | `pass` |
+| 4   |  `구현`  |  [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058)  | [링크](https://github.com/sixthou/Algorithms/blob/master/programmers/Q_60058.java) | `pass` |
+
+
 ### 15주차
 투포인터 알고리즘을 배울 수 있었습니다~ 새로운걸 배우며 화이팅입니다~💪
 
