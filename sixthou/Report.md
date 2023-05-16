@@ -3,6 +3,18 @@
 ## [Repository](https://github.com/sixthou/Algorithms)
 > 작성은 주차 내림차순으로 가장 최근 주차가 위에오게 작성한다.
 
+### 17주차
+금방 또 한주가 지나갔습니다. 다시 또 화이팅입니다~💪
+
+|     |   유형   |                                         문제                                         |                          <div style="width:30">풀이</div>                          |   결과   |
+|-----|:------:|:----------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------:|:------:|
+| 1   | `문자열`  |        [[3차] 방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683)         | [링크](https://github.com/sixthou/Algorithms/blob/master/programmers/Q_17683.java) | `pass` |
+| 2   | `이분탐색` |    [징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062)    | [링크](https://github.com/sixthou/Algorithms/blob/master/programmers/Q_64062.java) | `pass` |
+| 3   |  `구현`  |      [[카카오 인턴] 수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257)       | [링크](https://github.com/sixthou/Algorithms/blob/master/programmers/Q_67257.java) | `pass` |
+| 4   |  `큐`  |  [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)  | [링크](https://github.com/sixthou/Algorithms/blob/master/programmers/Q_42586.java) | `pass` |
+
+
+
 ### 16주차
 카카오 기출문제들은 생각할게 많아보입니다. 힘들지만 화이팅입니다~💪
 
