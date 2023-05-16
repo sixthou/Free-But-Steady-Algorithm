@@ -3,6 +3,20 @@
 
 ---
 
+### 17주차
+
+좀 나태해지는거 같네요.
+레벨 3문제는 여전히 어렵습니다.. 실패했어요.
+다음주에는 좀더 열심히 하겠습니다.
+
+| |  유형 | 문제 |  <div style="width:30">풀이</div> | 결과 |
+| --- |:---:|:---:|:---:|:---:|
+| 1 | `구현` | [문자열 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/76503) | [링크](https://github.com/WonHyeongCho/Free-But-Steedy-Algorithm/blob/main/WonHyeongCho/Week_17_1.java) | `fail` |  
+| 2 | `구현` | [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860) | [링크](https://github.com/WonHyeongCho/Free-But-Steedy-Algorithm/blob/main/WonHyeongCho/Week_17_2.java) | `pass` |
+| 3 | `구현` | [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862) | [링크](https://github.com/WonHyeongCho/Free-But-Steedy-Algorithm/blob/main/WonHyeongCho/Week_17_3.java) | `pass` |
+
+---
+
 ### 16주차
 
 노잼!!!😩
