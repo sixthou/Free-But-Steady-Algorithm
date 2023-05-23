@@ -3,6 +3,17 @@
 ## [Repository](https://github.com/sixthou/Algorithms)
 > 작성은 주차 내림차순으로 가장 최근 주차가 위에오게 작성한다.
 
+### 18주차
+softeer로 연습을 했습니다. IDE없이 하는건 어렵습니다. 꾸준히 화이팅입니다~💪
+
+|     |  유형   |                                     문제                                     |                          <div style="width:30">풀이</div>                          |   결과   |
+|-----|:-----:|:--------------------------------------------------------------------------:|:--------------------------------------------------------------------------------:|:------:|
+| 1   | `문자열` | [무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540) | [링크](https://github.com/sixthou/Algorithms/blob/master/programmers/Q_154540.java) | `pass` |
+| 2   | `구현`  |          [GBC](https://softeer.ai/practice/info.do?idx=1&eid=584)          | [링크](https://softeer.ai/practice/info.do?idx=1&eid=584) | `pass` |
+| 3   | `구현`  |  [금고털이](https://softeer.ai/practice/info.do?idx=1&eid=395)   | [링크](https://softeer.ai/practice/info.do?idx=1&eid=395) | `pass` |
+
+
+
 ### 17주차
 금방 또 한주가 지나갔습니다. 다시 또 화이팅입니다~💪
 
