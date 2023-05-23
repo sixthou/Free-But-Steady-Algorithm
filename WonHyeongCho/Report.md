@@ -3,6 +3,19 @@
 
 ---
 
+### 18주차
+
+화팅!
+
+| |  유형 | 문제 |  <div style="width:30">풀이</div> | 결과 |
+| --- |:---:|:---:|:---:|:---:|
+| 1 | `구현` | [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870) | [링크](https://github.com/WonHyeongCho/Free-But-Steedy-Algorithm/blob/main/WonHyeongCho/Week_18_1.java) | `pass` |  
+| 2 | `구현` | [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335) | [링크](https://github.com/WonHyeongCho/Free-But-Steedy-Algorithm/blob/main/WonHyeongCho/Week_18_2.java) | `pass` |
+| 3 | `구현` | [n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390) | [링크](https://github.com/WonHyeongCho/Free-But-Steedy-Algorithm/blob/main/WonHyeongCho/Week_18_3.java) | `pass` |
+
+
+---
+
 ### 17주차
 
 좀 나태해지는거 같네요.
