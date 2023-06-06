@@ -3,6 +3,19 @@
 ## [Repository](https://github.com/sixthou/Algorithms)
 > 작성은 주차 내림차순으로 가장 최근 주차가 위에오게 작성한다.
 
+## 20주차
+이번에는 leetcode로 갔습니다. 이진탐색 시리즈를 해결해봤습니다. 화이팅입니다~💪
+|     |  유형   |                                     문제                                     |                          <div style="width:30">풀이</div>                          |   결과   |
+|-----|:-----:|:--------------------------------------------------------------------------:|:--------------------------------------------------------------------------------:|:------:|
+| 1   | `이진탐색` | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [링크](https://github.com/sixthou/Algorithms/blob/master/leetcode/Q0033.java) | `pass` |
+| 2   | `이진탐색`  |  [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)          | [링크](https://github.com/sixthou/Algorithms/blob/master/leetcode/Q0034.java) | `pass` |
+| 3   | `이진탐색`  |  [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)   | [링크](https://github.com/sixthou/Algorithms/blob/master/leetcode/Q0035.java) | `pass` |
+| 4   | `이진탐색`  |  [74. search-a-2d-matrix](https://leetcode.com/problems/search-a-2d-matrix/)   | [링크](https://github.com/sixthou/Algorithms/blob/master/leetcode/Q0074.java) | `pass` |
+| 5   | `이진탐색`  |  [136. Single Number](https://leetcode.com/problems/single-number/)   | [링크](https://github.com/sixthou/Algorithms/blob/master/leetcode/Q0136.java) | `pass` |
+| 6   | `이진탐색`  |  [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)   | [링크](https://github.com/sixthou/Algorithms/blob/master/leetcode/Q1534.java) | `pass` |
+
+
+
 ### 18주차
 softeer로 연습을 했습니다. IDE없이 하는건 어렵습니다. 꾸준히 화이팅입니다~💪 
 
