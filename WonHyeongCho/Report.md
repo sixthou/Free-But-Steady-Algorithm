@@ -3,6 +3,19 @@
 
 ---
 
+### 20주차
+
+또 화이팅~
+
+| |  유형 | 문제 |  <div style="width:30">풀이</div> | 결과 |
+| --- |:---:|:---:|:---:|:---:|
+| 1 | `구현` | [연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701) | [링크](https://github.com/WonHyeongCho/Free-But-Steedy-Algorithm/blob/main/WonHyeongCho/Week_20_1.java) | `pass` |  
+| 2 | `구현` | [추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963) | [링크](https://github.com/WonHyeongCho/Free-But-Steedy-Algorithm/blob/main/WonHyeongCho/Week_20_2.java) | `pass` |
+| 3 | `구현` | [스킬 트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993) | [링크](https://github.com/WonHyeongCho/Free-But-Steedy-Algorithm/blob/main/WonHyeongCho/Week_20_3.java) | `pass` |
+
+
+---
+
 ### 18주차
 
 화팅!
