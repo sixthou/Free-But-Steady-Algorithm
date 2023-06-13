@@ -3,6 +3,18 @@
 
 ---
 
+### 21주차
+
+또또 화이팅~
+
+| |  유형 | 문제 |  <div style="width:30">풀이</div> | 결과 |
+| --- |:---:|:---:|:---:|:---:|
+| 1 | `구현` | [호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651) | [링크](https://github.com/WonHyeongCho/Free-But-Steedy-Algorithm/blob/main/WonHyeongCho/Week_21_1.java) | `pass` |  
+| 2 | `구현` | [시소 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/155651) | [링크](https://github.com/WonHyeongCho/Free-But-Steedy-Algorithm/blob/main/WonHyeongCho/Week_21_2.java) | `pass` |
+| 3 | `구현` | [기사 단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798) | [링크](https://github.com/WonHyeongCho/Free-But-Steedy-Algorithm/blob/main/WonHyeongCho/Week_21_3.java) | `pass` |
+
+---
+
 ### 20주차
 
 또 화이팅~
